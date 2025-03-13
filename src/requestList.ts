@@ -65,6 +65,27 @@ export const REQUESTS: RawCoinInfo[] = [
     permissioned_listing: true,
   },
   {
+    name: "AGLP",
+    symbol: "AGLP",
+    official_symbol: "AGLP",
+    coingecko_id: "",
+    decimals: 6,
+    logo_url: "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/AGLP.svg",
+    project_url: "https://agdex.io/",
+    token_type: {
+      type: "",
+      account_address: "0x570b5bd56a15b626745cede6cafc64a0ef1d86465d033e4e3da1b2a07e75f746",
+      module_name: "",
+      struct_name: ""
+    },
+    extensions: {
+      data: []
+    },
+    unique_index: 92184,
+    source: "native",
+    permissioned_listing: true,
+  },
+  {
     name: "AptosLaunch Token",
     symbol: "ALT",
     official_symbol: "ALT",
